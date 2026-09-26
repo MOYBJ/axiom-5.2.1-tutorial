@@ -1,0 +1,9 @@
+# 生成用的源稿与构建脚本不纳入仓库
+_src/
+
+# 系统与工具杂项
+__pycache__/
+*.pyc
+~$*
+Thumbs.db
+.DS_Store
